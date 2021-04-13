@@ -168,9 +168,16 @@
 
 ## <a id="tsuiki">**追記**</a>
 
+**(2021年4月13日追記)**
 
+- ツンドラトラッカー・VIVEトラッカー3.0・Manus Pro Trackerに搭載されているトラッキングチップは、Valve Indexにも搭載されている新世代のもの
+- バッテリーの稼働時間が改善されている
+    - [https://twitter.com/jasonleongtw/status/1381521813797105666:embed]
+    - [https://twitter.com/jasonleongtw/status/1381533294261497858:embed]
+    - [https://twitter.com/jasonleongtw/status/1381544730899574787:embed]
 
 **(2021年4月9日追記)**
+
 - [【日本語版】HELLO WORLD, IT'S A TUNDRA TRACKER](https://www.tundratracker.com/so/f8NYp52tT#/main)
 
 **(2021年4月8日追記)**
