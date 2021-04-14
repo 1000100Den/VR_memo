@@ -11,7 +11,7 @@
 
 - https://www.thun-techblog.com/index.php/blog/oculus-quest-radeon-relive-for-vr-setup/#f
 - https://yukiblo.jp/computer/radeon-relive-vr-oculus-quest
-
+- http://yukiblo.jp/2019/06/22/post-577/
 
 ## SideQuest
 
