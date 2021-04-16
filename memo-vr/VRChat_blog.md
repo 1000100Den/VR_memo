@@ -7,3 +7,11 @@
 - [こはろぐ | こはくのVRブログ](https://kohavrog.com/)
 
 - [バーチャルライフマガジン | VRChatはじめVR SNSの今をお届け！](https://vr-lifemagazine.com/)
+
+## Avatars 3.0
+
+- http://usualgamer.la.coocan.jp/cgi/cafe/art/00017.html
+- https://docs.google.com/document/d/1FNiyIl5RyVdfR3pgCBMoc501sCAHs4ZVCnJ6xpbwf6Q/edit
+- https://kb10uy.hateblo.jp/entry/2020/08/08/032730
+- https://www.k-youhinten.com/post/avatar3_0_tutorial_no_01
+
