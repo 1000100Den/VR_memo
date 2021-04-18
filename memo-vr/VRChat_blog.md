@@ -15,3 +15,7 @@
 - https://kb10uy.hateblo.jp/entry/2020/08/08/032730
 - https://www.k-youhinten.com/post/avatar3_0_tutorial_no_01
 
+### ComboGestureExpressions
+
+- [ComboGestureExpressions for Avatars 3.0 - hai-vr - BOOTH](https://hai-vr.booth.pm/items/2219616)
+- [ComboGestureExpressions (CGE) | Easily generate Avatars 3.0 animator layers for hand gestures to control face expressions](https://hai-vr.github.io/combo-gesture-expressions-av3/)
