@@ -20,6 +20,7 @@
 ## Virtual Desktop
 
 - https://www.vrdesktop.net/
+- https://twitter.com/VRDesktop
 
 ## oculus Fullbody Tracking
 
