@@ -14,6 +14,8 @@
 - https://docs.google.com/document/d/1FNiyIl5RyVdfR3pgCBMoc501sCAHs4ZVCnJ6xpbwf6Q/edit
 - https://kb10uy.hateblo.jp/entry/2020/08/08/032730
 - https://www.k-youhinten.com/post/avatar3_0_tutorial_no_01
+- https://nazell.booth.pm/items/2203578
+- https://glintfraulein.booth.pm/items/2612867
 
 ### ComboGestureExpressions
 
