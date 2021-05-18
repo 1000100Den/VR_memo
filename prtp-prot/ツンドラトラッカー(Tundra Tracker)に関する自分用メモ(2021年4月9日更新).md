@@ -1,6 +1,18 @@
 [f:id:paratap:20210207124956j:plain]
 
-- **Kickstarterでのキャンペーンがスタート！現在までに日本円換算で1億円以上の支援が集まっています！**
+- **リワード付きプレッジが残りわずかになっています！欲しい方はお早めに**
+- 2021/05/18 16:56時点でのリワード残り人数
+- Tundra Tracker x1 Bundle(SW3 Dongle付き)
+    - 1人
+- Tundra Tracker x3 Bundle(ealry Bird,SW3 Dongle付き)
+    - 0人
+- Tundra Tracker x3 Bundle
+    - 0人
+- Tundra Tracker x5 Bundle
+    - 0人
+- Tundra Tracker x7 Bundle
+    - 3人
+
     - [Tundra Tracker by Luke Beno — Kickstarter](http://kickstarter.com/projects/tundralabs/tundra-tracker)
 
 - **Yamori Hidekiさんによる出資時のアドオン追加方法・注意などの解説
@@ -170,7 +182,7 @@
 
 **(2021年4月18日追記)**
 
-- **Tundralabs Meetup (2021/4/18)での質問**
+- **Tundralabs Meetup(2021/4/18)での質問**
 
 - 現在Clusterで動作しない
     - Cluster側に報告済み、現時点で返答無し
@@ -188,6 +200,10 @@
         - 各バッカーによってアドオンの内容が異なるため管理が難しい
         - パッケージにはアクセサリーも含まれるため集荷にはある程度のスペースが必要
     2. 中国から直接各バッカーの元へと発送するプラン
+
+- 残りのトラッカー数は1000~2000台強程度
+
+- 5月になればレビュアーによる動画が出てくるはず
 
 **(2021年4月13日追記)**
 
